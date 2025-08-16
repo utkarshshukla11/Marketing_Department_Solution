@@ -1,17 +1,12 @@
-# 🏢 Employee Retention Prediction – Machine Learning Project
+# 🏢 Bank Customer Segmentation– Machine Learning Project
 
 ## 📌 Project Objective
-Build a machine learning model to predict which employees are likely to leave, helping HR teams take action to retain valuable talent.
+Banks often deal with thousands of customers, each with unique behaviors and needs. Instead of treating all customers the same, segmentation helps identify groups (e.g., high spenders, savers, loan seekers) for better data-driven decision making.
 
 ---
 
 ## 💡 Why This Project Matters
-- Hiring and keeping employees is challenging — it costs time, money, and effort.
-- Small business owners spend nearly 40% of their working hours on non-revenue tasks like hiring.
-- Companies spend 15–20% of a new employee's salary just to recruit them.
-- Hiring takes an average of 52 days, and companies can lose 1–2.5% of total revenue during onboarding.
-
-By predicting attrition, organizations can save costs, improve productivity, and retain top talent.
+This project focuses on segmenting bank customers using clustering techniques. By analyzing customer data over 6 months, we uncover meaningful groups that help the marketing team design personalized campaigns, improve customer engagement, and reduce costs.
 
 ---
 
