@@ -61,7 +61,3 @@ The project enables the bank to:
 
 ---
 
-## 📝 How to Run
-1. Clone the repository:  
-```bash
-git clone https://github.com/utkarshshukla111/Bank-Customer-Segmentation.git
