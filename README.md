@@ -1,72 +1,45 @@
-Bank Customer Segmentation
+# 🏢 Employee Retention Prediction – Machine Learning Project
 
-This project focuses on segmenting bank customers using clustering techniques. By analyzing customer data over 6 months, we uncover meaningful groups that help the marketing team design personalized campaigns, improve customer engagement, and reduce costs.
+## 📌 Project Objective
+Build a machine learning model to predict which employees are likely to leave, helping HR teams take action to retain valuable talent.
 
-📌 Project Objective
+---
 
-Banks often deal with thousands of customers, each with unique behaviors and needs. Instead of treating all customers the same, segmentation helps identify groups (e.g., high spenders, savers, loan seekers) for better data-driven decision making.
+## 💡 Why This Project Matters
+- Hiring and keeping employees is challenging — it costs time, money, and effort.
+- Small business owners spend nearly 40% of their working hours on non-revenue tasks like hiring.
+- Companies spend 15–20% of a new employee's salary just to recruit them.
+- Hiring takes an average of 52 days, and companies can lose 1–2.5% of total revenue during onboarding.
 
-⚙️ Tech Stack / Libraries Used
+By predicting attrition, organizations can save costs, improve productivity, and retain top talent.
 
-pandas – Data handling & preprocessing
+---
 
-numpy – Numerical computations
-
-seaborn – Visualizations & insights
-
-matplotlib – Charts & plots
-
-scikit-learn
-
-StandardScaler – Feature scaling
-
-normalize – Normalize feature vectors
-
-KMeans – Clustering algorithm
-
-PCA – Dimensionality reduction
-
-🚀 Steps in the Project
-
-Data Preprocessing
-
-Load customer data
-
-Handle missing values
-
-Scale & normalize features
-
-Exploratory Data Analysis (EDA)
-
-Visualize distributions
-
-Correlation analysis
-
-Outlier detection
-
-Clustering with KMeans
-
-Optimal cluster selection (Elbow Method)
-
-Apply KMeans for segmentation
-
-Dimensionality Reduction with PCA
-
-Reduce to 2D/3D for visualization
-
-Interpret customer clusters
-
-Insights & Results
-
-Identify customer groups
-
-Provide actionable recommendations for Marketing
+## 🧑‍💻 My Role
+Acting as a **Data Scientist**, I worked with HR-provided employee data to:
+- Analyze patterns in attrition.
+- Build predictive models using machine learning.
 
 
-🎯 Business Value
+---
 
-Targeted Marketing → Personalized offers
+---
 
-Customer Retention → Better engagement strategies
+## ⚙️ Tech Stack
+- **Language:** Python  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
+- **Environment:** Jupyter Notebook
 
-Revenue Growth → Focus on high-value clients
+---
+
+## 🚀 Workflow
+1. Data Loading & Cleaning
+2. Exploratory Data Analysis (EDA)
+3. Feature Engineering
+4. Model Training & Evaluation
+5. Insights & Recommendations
+
+---
+
+👤 **Author:** Utkarsh Shukla 
+🔗 **LinkedIn:** [www.linkedin.com/in/utkarshshukla111](https://www.linkedin.com/in/utkarshshukla111)
