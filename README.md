@@ -18,8 +18,6 @@ Acting as a **Data Scientist**, I worked with HR-provided employee data to:
 
 ---
 
----
-
 ## ⚙️ Tech Stack
 - **Language:** Python  
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow
